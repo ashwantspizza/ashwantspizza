@@ -4,7 +4,9 @@ Hi, I'm Aisling! Welcome to my GitHub :)
 Full-stack Developer
 --------------------
 
-My name is Aisling Brogan-Smith, but my mates call me 'Ash'! I'm 20 years old and I've decided to take a plunge and dive into the world of software developing - coding was something I was always interested in but never really pursued until a couple of months ago. After being in hospitality and retail for about a year and a half, I felt that something was off; that I was limited and wasn't being challenged. This is what ultimately led me to join the School of Code bootcamp, where I'm learning about all aspects of coding and software development and agile team frameworks. I love working collaboratively and problem-solving - I am looking forward to where this journey takes me as well as launching myself into a new career at some point!
+My name is Aisling Brogan-Smith, but my mates call me 'Ash'! My pronouns are she/her, I'm 20 years old and I've decided to take a plunge and dive into the world of software developing. Coding was something I was always interested in but never really pursued until a couple of months ago. 
+
+After being in hospitality and retail for about a year and a half, I felt that something was off; that I was limited and wasn't being challenged. This is what ultimately led me to join the School of Code bootcamp, where I'm learning about all aspects of coding and software development and agile team frameworks. I love working collaboratively and problem-solving - I am looking forward to where this journey takes me as well as launching myself into a new career at some point!
 
 ### Skills
 
@@ -19,7 +21,7 @@ My name is Aisling Brogan-Smith, but my mates call me 'Ash'! I'm 20 years old an
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
 </p>
 
-### Socials
+### Let's connect!
 
 <p align="left"> <a href="https://www.github.com/ashwantspizza" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/aisling-brogan-smith-112302255/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
