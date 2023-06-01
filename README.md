@@ -8,6 +8,10 @@ My name is Aisling Brogan-Smith, but my mates call me 'Ash'! My pronouns are she
 
 After being in hospitality and retail for about a year and a half, I felt that something was off; that I was limited and wasn't being challenged. This is what ultimately led me to join the School of Code bootcamp, where I'm learning about all aspects of coding and software development and agile team frameworks. I love working collaboratively and problem-solving - I am looking forward to where this journey takes me as well as launching myself into a new career at some point!
 
+<div id="header" align="center">
+  <img src="https://giphy.com/clips/viralhog-viral-hog-kitten-fascinated-by-the-text-its-typing-9IYh13N9jnBxVuHzKt" width="100"/>
+</div>
+
 ### Skills
 
 <p align="left">
