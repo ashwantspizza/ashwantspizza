@@ -1,18 +1,14 @@
-Hi, I'm Aisling! Welcome to my GitHub :)
+Hi, I'm Ash! Welcome to my GitHub :)
 =====================================
 
 Full-stack Developer
 --------------------
 
-My name is Aisling Brogan-Smith, but my mates call me 'Ash'! My pronouns are she/her, I'm 20 years old and I've decided to take a plunge and dive into the world of software developing. Coding was something I was always interested in but never really pursued until a couple of months ago. 
+My name is Aisling Brogan-Smith, but my mates call me 'Ash'. I'm 20 years old and I've decided to take a plunge and dive into the world of software developing. Coding was something I was always interested in but never really pursued until a couple of months ago. 
 
 After being in hospitality and retail, I felt that something was off; that I was limited and wasn't being challenged. This is what ultimately led me to join the School of Code bootcamp, where I'm learning about all aspects of coding and software development and agile team frameworks. I love working collaboratively and problem-solving - I am looking forward to where this journey takes me as well as launching myself into a new career at some point!
 
-<div id="header" align="center">
-  <img src="https://giphy.com/clips/viralhog-viral-hog-kitten-fascinated-by-the-text-its-typing-9IYh13N9jnBxVuHzKt" width="100"/>
-</div>
-
-### Skills
+### My Skills
 
 <p align="left">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
