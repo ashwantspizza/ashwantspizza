@@ -4,11 +4,11 @@ Hi, I'm Ash! Welcome to my GitHub :)
 Full-stack Developer
 --------------------
 
-My name is Aisling Brogan-Smith, but my mates call me 'Ash'. I'm 20 years old and I've decided to take a plunge and dive into the world of software developing. Coding was something I was always interested in but never really pursued until a couple of months ago. 
+My name is Aisling Brogan-Smith, but my mates call me 'Ash'. I've decided to take a plunge and dive into the world of software developing. Coding was something I was always interested in but never really pursued until a few months ago. 
 
 After being in hospitality and retail, I felt that something was off; that I was limited and wasn't being challenged. This is what ultimately led me to join the School of Code bootcamp, where I'm learning about all aspects of coding and software development and agile team frameworks. I love working collaboratively and problem-solving - I am looking forward to where this journey takes me as well as launching myself into a new career at some point!
 
-### My Skills
+### Tech Stack
 
 <p align="left">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
@@ -20,7 +20,16 @@ After being in hospitality and retail, I felt that something was off; that I was
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/SQL" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/123087687/238879329-48591c73-963d-46e3-a9cc-1d97487c7d3b.png" width="36" height="36" alt="SQL" /></a>
 </p>
+
+### I'm currently working on...
+- Sharpening my React.js skills😎
+- My portfolio/website💻
+- Learning Next.js📝
+- Learning TailwindCSS📝
+
+Reach out to me by email: aislingbrogansmith@gmail.com :)
 
 ### Let's connect!
 
