@@ -26,12 +26,11 @@ After being in hospitality and retail, I felt that something was off; that I was
 </p>
 
 ### I'm currently working on...
-- Sharpening my React.js skills😎
-- My portfolio/website💻
 - Learning Next.js📝
 - Learning TailwindCSS📝
 
-Reach out to me by email: aislingbrogansmith@gmail.com :)
+Check out my website: https://aislingbsmith.netlify.app/ - still a work in progress so any feedback is always welcome!
+... or you can reach out to me by email: aislingbrogansmith@gmail.com :)
 
 ### Let's connect!
 
