@@ -6,9 +6,9 @@ Hi, I'm Ash! Welcome to my GitHub :)
 Full-stack Developer
 --------------------
 
-My name is Aisling Brogan-Smith, but my mates call me 'Ash'. I've decided to take a plunge and dive into the world of software developing. Coding was something I was always interested in but never really pursued until a few months ago. 
-
-After being in hospitality and retail, I felt that something was off; that I was limited and wasn't being challenged. This is what ultimately led me to join the School of Code bootcamp, where I'm learning about all aspects of coding and software development and agile team frameworks. I love working collaboratively and problem-solving - I am looking forward to where this journey takes me as well as launching myself into a new career at some point!
+My name is Aisling Brogan-Smith, but my mates call me 'Ash' and I've decided to take a plunge and dive into the world of software developing!
+After being in hospitality and retail, I felt that something was off; that I was limited and wasn't being challenged. This is what ultimately led me to join the School of Code bootcamp. I've recently graduated and I've learnt about all aspects of coding and software development and agile team frameworks. I love working collaboratively and problem-solving.
+As I'm currently looking for my first role in tech, I would love to hear any questions or feedback you have for me and will be open to any opportunities that you may have as well!
 
 ### Tech Stack
 
@@ -28,6 +28,7 @@ After being in hospitality and retail, I felt that something was off; that I was
 ### I'm currently working on...
 - Learning Next.js📝
 - Learning TailwindCSS📝
+- Making a website for my dad, as it's something he's always wanted :)
 
 Check out my website: https://aislingbsmith.netlify.app/ - still a work in progress so any feedback is always welcome!
 ... or you can reach out to me by email: aislingbrogansmith@gmail.com :)
