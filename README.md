@@ -6,9 +6,7 @@ Hi, I'm Ash! Welcome to my GitHub :)
 Full-stack Developer
 --------------------
 
-My name is Aisling Brogan-Smith, but my mates call me 'Ash' and I've decided to take a plunge and dive into the world of software developing!
-After being in hospitality and retail, I felt that something was off; that I was limited and wasn't being challenged. This is what ultimately led me to join the School of Code bootcamp. I've recently graduated and I've learnt about all aspects of coding and software development and agile team frameworks. I love working collaboratively and problem-solving.
-As I'm currently looking for my first role in tech, I would love to hear any questions or feedback you have for me and will be open to any opportunities that you may have as well!
+My name is Aisling Brogan-Smith, but my mates call me 'Ash' and I'm a junior developer from London!
 
 ### Tech Stack
 
