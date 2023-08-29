@@ -1,4 +1,4 @@
-<img width="832" alt="Screenshot 2023-08-29 at 21 26 34" src="https://github.com/ashwantspizza/ashwantspizza/assets/127150103/f5a7d2f3-ad64-4060-878e-6862d94f2a77">
+<img width="774" alt="gitbanner" src="https://github.com/ashwantspizza/ashwantspizza/assets/127150103/ee1ca978-21ce-4a97-aa70-01c98e307f4c">
 
 Hi, I'm Ash! Welcome to my GitHub :)
 =====================================
