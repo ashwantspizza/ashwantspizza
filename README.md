@@ -6,7 +6,7 @@ Hi, I'm Ash! Welcome to my GitHub :)
 Full-stack Developer
 --------------------
 
-My name is Aisling Brogan-Smith, but my mates call me 'Ash' and I'm a junior developer from London!
+My name is Aisling Brogan-Smith, but my mates call me 'Ash' and I'm an aspiring junior developer from London!
 
 ### Tech Stack
 
@@ -28,8 +28,8 @@ My name is Aisling Brogan-Smith, but my mates call me 'Ash' and I'm a junior dev
 </p>
 
 ### I'm currently working on...
-- Learning Next.js📝
-- Learning TailwindCSS📝
+- Next.js and TailwindCSS skills📝
+- My weather app!
 - Making a website for my dad, as it's something he's always wanted :)
 
 Check out my website: https://aislingbsmith.netlify.app/ - still a work in progress so any feedback is always welcome!
