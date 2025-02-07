@@ -32,8 +32,7 @@ My name is Aisling Brogan-Smith, but my mates call me 'Ash' and I'm an aspiring 
 - My weather app!
 - Making a website for my dad, as it's something he's always wanted :)
 
-Check out my website: https://aislingbsmith.netlify.app/ - still a work in progress so any feedback is always welcome!
-... or you can reach out to me by email: aislingbrogansmith@gmail.com :)
+Reach out to me by email: aislingbrogansmith@gmail.com :)
 
 ### Let's connect!
 
