@@ -27,11 +27,6 @@ My name is Aisling Brogan-Smith, but my mates call me 'Ash' and I'm an aspiring 
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
-### I'm currently working on...
-- Next.js and TailwindCSS skills📝
-- My weather app!
-- Making a website for my dad, as it's something he's always wanted :)
-
 Reach out to me by email: aislingbrogansmith@gmail.com :)
 
 ### Let's connect!
