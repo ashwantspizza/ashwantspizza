@@ -1,4 +1,4 @@
-<img width="774" alt="gitbanner" src="https://github.com/ashwantspizza/ashwantspizza/assets/127150103/ee1ca978-21ce-4a97-aa70-01c98e307f4c">
+<img width="9597" height="2229" alt="name-w-starsnbg" src="https://github.com/user-attachments/assets/d10502bb-1959-4e75-8d0d-e714f8dbb059" />
 
 Hi, I'm Ash! Welcome to my GitHub :)
 =====================================
