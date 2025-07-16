@@ -3,10 +3,10 @@
 Hi, I'm Ash! Welcome to my GitHub :)
 =====================================
 
-Full-stack Developer
+Product Designer
 --------------------
 
-My name is Aisling Brogan-Smith, but my mates call me 'Ash' and I'm an aspiring junior developer from London!
+My name is Aisling Brogan-Smith, but my mates call me 'Ash' and I'm an aspiring product designer based in London!
 
 ### Tech Stack
 
